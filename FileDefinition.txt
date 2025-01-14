@@ -3,6 +3,8 @@
 *.md
 .git*
 *.png
+*.gsp
+*.gspu
 store\*.png
 images
 SourceModels
