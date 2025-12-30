@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="no" ?>
 <modDesc descVersion="105">
     <author>Achimobil</author>
-    <version>1.1.0.1</version>
+    <version>1.2.0.0</version>
     <title>
         <de>Verbesserte Kontext Aktionen</de>
         <en>Better Context Actions</en>
@@ -15,7 +15,7 @@ Das Verändern oder erneutes Hochladen, ob ganz oder in Teilen, ist nicht gestat
 Fehler und Anregungen gerne auf <a href="https://github.com/Achimobil/FS25_BetterContextActions">GitHub</a>.
 
 Changelog
-1.1.0.1 - In vielen Fällen wird jetzt auch der Filltype mit angezeigt.
+1.2.0.0 - In vielen Fällen wird jetzt auch der Filltype mit angezeigt.
 1.1.0.0 - Sägen beim Holz-Vollernter wird jetzt angezeigt als Kontext Aktion
 ]]></de>
         <en><![CDATA[Shows more Actions in the lower Context area.
@@ -26,6 +26,7 @@ Modifying and re-uploading in whole or in part is not allowed!
 Bugs and suggestions welcome on <a href="https://github.com/Achimobil/FS25_BetterContextActions">GitHub</a>.
 
 Changelog
+1.2.0.0 - Shows now also the Filltype name to interact with, when possible
 1.1.0.0 - Sawing at the wood harvester is now displayed as a context action
 ]]></en>
     </description>

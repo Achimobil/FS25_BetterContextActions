@@ -3,6 +3,7 @@
     <projectName>BetterContextActions</projectName>
     <projectSources>
         <source path="D:/Achim/source/repos/FS25_BetterContextActions/" />
+        <source path="D:/Achim/source/repos/FS25_GiantsStudioReferences/" />
     </projectSources>
     <excludePaths>
     </excludePaths>
