@@ -1,13 +1,22 @@
 --[[
-Copyright (C) Achimobil, 2024-2025
+Copyright (c) 2024-2025 Achimobil. All rights reserved.
 
-Author: Achimobil
+Author:  Achimobil
+Contact: https://github.com/Achimobil/FS25_BetterContextActions
 
-Important:
-No copy and use in own mods allowed.
+License / Nutzung:
+This script is part of the mod "FS25_BetterContextActions".
+You are NOT allowed to copy, modify, redistribute, re-upload, or use this script
+(or parts of it) in your own mods or other projects.
 
-Das verändern und wiederöffentlichen, auch in Teilen, ist untersagt und wird abgemahnt.
+Urheberrecht / Nutzung:
+Dieses Skript ist Bestandteil des Mods „FS25_BetterContextActions“.
+Das Kopieren, Verändern, Weitergeben oder Wiederveröffentlichen –
+ganz oder in Teilen – sowie die Verwendung in eigenen Mods
+oder anderen Projekten ist ohne vorherige, schriftliche Zustimmung
+strengstens untersagt und wird abgemahnt.
 ]]
+
 
 WoodHarvesterExtension = {}
 function WoodHarvesterExtension:onUpdateTick(dt, isActiveForInput, isActiveForInputIgnoreSelection, isSelected)
